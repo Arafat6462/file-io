@@ -21,10 +21,10 @@
 		// echo $data."<br><br>";
 		// echo "new : ".$dataOK;
 
-		$user = $dataOK->Username;
+		$userId = $dataOK->Username;
 		$pass = $dataOK->Password;
 
-		if("a" == $_POST['Username'] && "b" == $_POST['Password'])
+		if($userId == $_POST['Username'] && $pass == $_POST['Password'])
 		{
 			header('Location: welcome.html');
 			//exit;
