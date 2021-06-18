@@ -1,0 +1,3 @@
+ 
+q
+{"Firstname":"q","Lastname":"q","Gender":"Male","DOB":"2021-06-08","Religion":"hindu","presentaddress":"","Permanentaddress":"","phone":"q","Email":"a@da","Lienk":"","Username":"pp","Password":"pass"}
