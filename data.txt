@@ -1,3 +1,1 @@
- 
-q
-{"Firstname":"q","Lastname":"q","Gender":"Male","DOB":"2021-06-08","Religion":"hindu","presentaddress":"","Permanentaddress":"","phone":"q","Email":"a@da","Lienk":"","Username":"pp","Password":"pass"}
+{"Firstname":"Arafat","Lastname":"Hossain","Gender":"Male","DOB":"2021-06-03","Religion":"islam","presentaddress":"jatrabari","Permanentaddress":"faridpur","phone":"01626789352","Email":"Arafat6462@gmail.com","Lienk":"http:\/\/localhost\/","Username":"arafat6462","Password":"pass"}
